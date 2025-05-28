@@ -1,459 +1,454 @@
-Categoria,Produto,Descrição
-Antenas,Antena Lora 915MHz,
-Capacitor,Capacitor cerâmico 2pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 3pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 5pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 30pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 33pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 47pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 100pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 150pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 220pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 1nF 50V,Capacitor cerâmico
-,Capacitor cerâmico 1.5nF 50V,Capacitor cerâmico
-,Capacitor cerâmico 2.2nF 50V,Capacitor cerâmico
-,Capacitor cerâmico 10nF 50V,Capacitor cerâmico
-,Capacitor cerâmico 15nF 50V,Capacitor cerâmico
-,Capacitor cerâmico 22nF 50V,Capacitor cerâmico
-,Capacitor cerâmico 10pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 15pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 22pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 68pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 75pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 82pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 330pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 470pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 680pF 50V,Capacitor cerâmico
-,Capacitor cerâmico 3.3nF 50V,Capacitor cerâmico
-,Capacitor cerâmico 4.7nF 50V,Capacitor cerâmico
-,Capacitor cerâmico 6.8nF 50V,Capacitor cerâmico
-,Capacitor cerâmico 47nF 50V,Capacitor cerâmico
-,Capacitor cerâmico 68nF 50V,Capacitor cerâmico
-,Capacitor cerâmico 100nF 50V,Capacitor cerâmico
-,Capacitor eletrolítico 0.1uF 50V 4x7,Capacitor eletrolítico 
-,Capacitor eletrolítico 0.22uF 50V 5x11,Capacitor eletrolítico 
-,Capacitor eletrolítico 0.47uF 50V 5x11,Capacitor eletrolítico 
-,Capacitor eletrolítico 1uF 50V 5x11,Capacitor eletrolítico 
-,Capacitor eletrolítico 2.2uF 50V 4x7,Capacitor eletrolítico 
-,Capacitor eletrolítico 3.3uF 50V 4x7,Capacitor eletrolítico 
-,Capacitor eletrolítico 4.7uF 50V 4x7,Capacitor eletrolítico 
-,Capacitor eletrolítico 10uF 25V 4x7,Capacitor eletrolítico 
-,Capacitor eletrolítico 10uF 50V 5x11,Capacitor eletrolítico 
-,Capacitor eletrolítico 22uF 16V 4x7,Capacitor eletrolítico 
-,Capacitor eletrolítico 22uF 25V 4x7,Capacitor eletrolítico 
-,Capacitor eletrolítico 33uF 16V 4x7,Capacitor eletrolítico 
-,Capacitor eletrolítico 47uF 10V 4x7,Capacitor eletrolítico 
-,Capacitor eletrolítico 47uF 25V 5x11,Capacitor eletrolítico 
-,Capacitor eletrolítico 47uF 50V 6x11,Capacitor eletrolítico 
-,Capacitor eletrolítico 100uF 16V 5x11,Capacitor eletrolítico 
-,Capacitor eletrolítico 100uF 25V 5x11,Capacitor eletrolítico 
-,Capacitor eletrolítico 220uF 10V 5x11,Capacitor eletrolítico 
-,Capacitor eletrolítico 220uF 25V 6x11,Capacitor eletrolítico 
-,Capacitor eletrolítico 330uF 25V 8x12,Capacitor eletrolítico 
-,Capacitor eletrolítico 470uF 10V 6x11,Capacitor eletrolítico 
-,Capacitor eletrolítico 470uF 16V 8x12,Capacitor eletrolítico 
-,Capacitor eletrolítico 680uF 16V 8x12,Capacitor eletrolítico 
-,Capacitor eletrolítico 1000uF 16V 10x16,Capacitor eletrolítico 
-Célula de carga,Célula de carga 1kg,Célula de carga para balança
-,Célula de carga 5kg,Célula de carga para balança
-,Célula de carga 10kg,Célula de carga para balança
-Socket para CI,Socket 6 Pin,
-,Socket 8 Pin,
-,Socket 14 Pin,
-,Socket 16 Pin,
-,Socket 18 Pin,
-,Socket 20 Pin,
-,Socket 24 Pin,
-,Socket 28 Pin,
-Componente,Reed switch GPS-14B,
-,Interruptor de inclinação de vidro unidirecional 5mm,
-,Reed switch NO,
-,Reed switch NO / NC,
-conectores,conector com terminal de crimpagem E6012,
-,conector com terminal de crimpagem E4012,
-,conector com terminal de crimpagem E2512,
-,conector com terminal de crimpagem E1510,
-,conector com terminal de crimpagem E1008,
-,conector com terminal de crimpagem E7508,
-,conector com terminal de crimpagem E0506,
-,conector com terminal de crimpagem E0508,
-,conector de engate rapido laranja 250V/32A 412,Terminais de engate rápido tipo universal laranja 
-,conector de engate rapido laranja 250V/32A 413,Terminais de engate rápido tipo universal laranja 
-,conector de engate rapido laranja 250V/32A 414,Terminais de engate rápido tipo universal laranja 
-,conector de engate rapido laranja 250V/32A 415,Terminais de engate rápido tipo universal laranja 
-Oscilador,Cristal oscilador 4MHz,
-,Cristal oscilador 8MHz,
-,Cristal oscilador 12MHz,
-,Cristal oscilador 16MHz,
-,Cristal oscilador 20MHz,
-,Cristal oscilador 25MHz,
-,Cristal oscilador 32.768MHz,
-Diodo,Diodo zener 1N4727A 3V 1W,Diodo zener
-,Diodo zener 1N4728A 3.3V 1W,Diodo zener
-,Diodo zener 1N4729A 3.6V 1W,Diodo zener
-,Diodo zener 1N4730A 3.9V 1W,Diodo zener
-,Diodo zener 1N4731A 5.3V 1W,Diodo zener
-,Diodo zener 1N4732A 4.7V 1W,Diodo zener
-,Diodo zener 1N4733A 5.1V 1W,Diodo zener
-,Diodo zener 1N4734A 5.6V 1W,Diodo zener
-,Diodo zener 1N4735A 6.2V 1W,Diodo zener
-,Diodo zener 1N4736A 6.8V 1W,Diodo zener
-,Diodo zener 1N4737A 7.5V 1W,Diodo zener
-,Diodo zener 1N4738A 8.2V 1W,Diodo zener
-,Diodo zener 1N4739A 9.1V 1W,Diodo zener
-,Diodo zener 1N4740A 10V 1W,Diodo zener
-,Diodo zener 1N4741A 11V 1W,Diodo zener
-,Diodo zener 1N4742A 12V 1W,Diodo zener
-,Diodo zener 1N4743A 13V 1W,Diodo zener
-,Diodo zener 1N4744A 15V 1W,Diodo zener
-,Diodo zener 1N4745A 16V 1W,Diodo zener
-,Diodo zener 1N4746A 18V 1W,Diodo zener
-,Diodo zener 1N4747A 20V 1W,Diodo zener
-,Diodo zener 1N4748A 22V 1W,Diodo zener
-,Diodo zener 1N4749A 24V 1W,Diodo zener
-,Diodo zener 1N4750A 27V 1W,Diodo zener
-,Diodo zener 1N4751A 30V 1W,Diodo zener
-,Diodo zener 1N4752A 33V 1W,Diodo zener
-,Diodo zener 1N4753A 36V 1W,Diodo zener
-,Diodo zener 1N4754A 39V 1W,Diodo zener
-,Diodo zener 1N4755A 43V 1W,Diodo zener
-,Diodo zener 1N4756A 47V 1W,Diodo zener
-,1N4007,Diodo retificador de uso geral
-,1N4148,Diodo de sinal rápido (switching)
-,1N5819,Diodo Schottky
-,1N5399,Diodo retificador de uso geral
-,1N5408,Diodo retificador de alta corrente
-,1N5822,Diodo Schottky
-,FR107,Diodo retificador ultrarrápido (Fast Recovery)
-,FR207,Diodo retificador ultrarrápido (Fast Recovery)
-,DB3,Diac trigger DO-35
-,1SV149,Diodo varicap 
-Display,Display Oled 1.3”,
-,TFT display 1.3”,
-,Display LCD 1602,
-,TM1638,
-,Display Oled 0.96” I2C,
-,Display LCD 1602 I2C,
-,TFT display 1.8”,
-,TFT Display 2.8”,Display com touch
-Ferramentas,Alicate pequeno,
-Indutor ,Indutor 1uH,
-,Indutor 2.2uH,
-,Indutor 3.3uH,
-,Indutor 4.7uH,
-,Indutor 6.8uH,
-,Indutor 10uH,
-,Indutor 15uH,
-,Indutor 22uH,
-,Indutor 33uH,
-,Indutor 47uH,
-,Indutor 100uH,
-,Indutor 150uH,
-,Indutor 220uH,
-,Indutor 330uH,
-,Indutor 470uH,
-,Indutor 680uH,
-,Indutor 1mH,
-,Indutor 2.2mH,
-,Indutor 3.3mH,
-,Indutor 4.7mH,
-Jumper,Jumper MM 20cm,
-,Jumper MM 10cm,
-,Jumper MF 10cm,
-,Jumper FF 10cm,
-,Jumper FF 20cm,
-,Jumper MF 20cm,
-Kit Starter Arduino,Starter KIT Arduino,
-,Kit basico componentes,
-LDR,LDR 5516,
-,LDR 5528,
-,LDR 5537,
-,LDR 5539,
-,LDR 5549,
-LED,Led RGB,
-,Led amarelo 3mm,
-,Led laranja 3mm,
-,Led vermelho 3mm,
-,Led azul 3mm,
-,Led branco 3mm,
-,Led verde 3mm,
-Microcontrolador,Arduino Uno R3,
-,ESP32-CH9102X,
-,ESP32-CH340C TipoC,
-,ESP32 30PIN,
-,placa de encaixe ESP32,
-,placa de encaixe ARDnano,
-,Raspberry PI pico,
-,Raspberry PI pico W paralela,
-,ESP32-WROOM-32U-38P,ESP32 com espaço p/ antena
-,Arduino Nano 3.0 tipo C,
-Módulo ,Módulo GPS NEO-6M,Módulo GPS com Antena
-,Módulo RFID PN532,
-,Módulo buck boost XL6009,
-,HX711,
-,ULN2003,Módulo para motor de passo
-,DS3231 AT24C32,Módulo de precisão de clock
-,HW281A-5V,Módulo relé de 8 canais
-,HW307A-5V,Módulo relé de 1 canal
-,HW383B-12V,Módulo relé de 2 canais
-,HW316A-5V,Módulo relé de 4 canais
-,NRF24L01+PA+LNA,Módulo wireless
-,L9110S 2 canais,Driver ponte H para motor de passo
-,Placa de carregamento de bateria de litio TP4056,
-,ADS1115,ADC (Conversor Analógico para Digital)  de 16bits
-Motor,Servo motor 360°,
-,Motor DC 3.7V 50k RPM ,"Motor com Hélice para drone, ..."
-,28BYJ-48,Motor de passo
-,Motor DC 3-6V com caixa de engrenagens e eixo duplo ,
-,Motor DC 3-6V com caixa de engrenagens e eixo duplo + Roda,
-,Mini servo motor SG90,
-Optoacoplador,MOC3041,Optoacoplador com detecção de passagem por zero (zero-cross) 
-PCB,PCB Universal 5x7 cm,
-,PCB Universal 2x8 cm,
-,PCB Universal 3x7 cm,
-,PCB Universal 4x6 cm,
-,PCB Universal 7x9 cm,
-Peltier,Peltier TEC1-12706,
-Pin Header,PIN Header,
-Placa de fenolite,Placa de Fenolite 10x15cm,
-,Placa de Fenolite 7x10cm,
-,Placa de Fenolite 5x7cm,
-Potenciômetro ,Potenciômetro 1k,
-,Potenciômetro 2k,
-,Potenciômetro 5k,
-,Potenciômetro 10k,
-,Potenciômetro 20k,
-,Potenciômetro 50k,
-,Potenciômetro 100k,
-,Potenciômetro 250k,
-,Potenciômetro 500k,
-,Potenciômetro 1M,
-Protoboard,Protoboard 830 PIN,
-,Protoboard 415 PIN,
-Relay,Relay 5V,
-,Relay 3V,
-Resistor,Resistor 0 Ω 1/4W,
-,Resistor 0.5 Ω 1/4W,
-,Resistor 1 Ω 1/4W,
-,Resistor 2.2 Ω 1/4W,
-,Resistor 3.3 Ω 1/4W,
-,Resistor 4.7 Ω 1/4W,
-,Resistor 5.6 Ω 1/4W,
-,Resistor 6.8 Ω 1/4W,
-,Resistor 8.2 Ω 1/4W,
-,Resistor 10 Ω 1/4W,
-,Resistor 22 Ω 1/4W,
-,Resistor 33 Ω 1/4W,
-,Resistor 47 Ω 1/4W,
-,Resistor 56 Ω 1/4W,
-,Resistor 68 Ω 1/4W,
-,Resistor 82 Ω 1/4W,
-,Resistor 100 Ω 1/4W,
-,Resistor 220 Ω 1/4W,
-,Resistor 330 Ω 1/4W,
-,Resistor 470 Ω 1/4W,
-,Resistor 560 Ω 1/4W,
-,Resistor 680 Ω 1/4W,
-,Resistor 820 Ω 1/4W,
-,Resistor 1 kΩ 1/4W,
-,Resistor 2.2 kΩ 1/4W,
-,Resistor 3.3 kΩ 1/4W,
-,Resistor 4.7 kΩ 1/4W,
-,Resistor 5.6 kΩ 1/4W,
-,Resistor 6.8 kΩ 1/4W,
-,Resistor 8.2 kΩ 1/4W,
-,Resistor 10 kΩ 1/4W,
-,Resistor 22 kΩ 1/4W,
-,Resistor 33 kΩ 1/4W,
-,Resistor 47 kΩ 1/4W,
-,Resistor 56 kΩ 1/4W,
-,Resistor 68 kΩ 1/4W,
-,Resistor 82 kΩ 1/4W,
-,Resistor 100 kΩ 1/4W,
-,Resistor 220 kΩ 1/4W,
-,Resistor 330 kΩ 1/4W,
-,Resistor 470 kΩ 1/4W,
-,Resistor 560 kΩ 1/4W,
-,Resistor 680 kΩ 1/4W,
-,Resistor 820 kΩ 1/4W,
-,Resistor 1 MΩ 1/4W,
-,Resistor 2.2 MΩ 1/4W,
-,Resistor 3.3 MΩ 1/4W,
-,Resistor 4.5 MΩ 1/4W,
-,Resistor 4.7 MΩ 1/4W,
-,Resistor 10 MΩ 1/4W,
-,Resistor 0.1 Ω 2W,Resistor de potência
-,Resistor 0.33 Ω 2W,Resistor de potência
-,Resistor 0.5 Ω 2W,Resistor de potência
-,Resistor 1 Ω 2W,Resistor de potência
-,Resistor 1.5 Ω 2W,Resistor de potência
-,Resistor 2 Ω 2W,Resistor de potência
-,Resistor 2.7 Ω 2W,Resistor de potência
-,Resistor 3.3 Ω 2W,Resistor de potência
-,Resistor 3.9 Ω 2W,Resistor de potência
-,Resistor 4.7 Ω 2W,Resistor de potência
-,Resistor 5.6 Ω 2W,Resistor de potência
-,Resistor 7.5 Ω 2W,Resistor de potência
-,Resistor 10 Ω 2W,Resistor de potência
-,Resistor 15 Ω 2W,Resistor de potência
-,Resistor 20 Ω 2W,Resistor de potência
-,Resistor 27 Ω 2W,Resistor de potência
-,Resistor 33 Ω 2W,Resistor de potência
-,Resistor 39 Ω 2W,Resistor de potência
-,Resistor 47 Ω 2W,Resistor de potência
-,Resistor 56 Ω 2W,Resistor de potência
-,Resistor 75 Ω 2W,Resistor de potência
-,Resistor 100 Ω 2W,Resistor de potência
-,Resistor 150 Ω 2W,Resistor de potência
-,Resistor 200 Ω 2W,Resistor de potência
-,Resistor 270 Ω 2W,Resistor de potência
-,Resistor 330 Ω 2W,Resistor de potência
-,Resistor 390 Ω 2W,Resistor de potência
-,Resistor 470 Ω 2W,Resistor de potência
-,Resistor 560 Ω 2W,Resistor de potência
-,Resistor 750 Ω 2W,Resistor de potência
-,Resistor 1 kΩ 2W,Resistor de potência
-,Resistor 1.5 kΩ 2W,Resistor de potência
-,Resistor 2 kΩ 2W,Resistor de potência
-,Resistor 2.7 kΩ 2W,Resistor de potência
-,Resistor 3.3 kΩ 2W,Resistor de potência
-,Resistor 3.9 kΩ 2W,Resistor de potência
-,Resistor 4.7 kΩ 2W,Resistor de potência
-,Resistor 5.6 kΩ 2W,Resistor de potência
-,Resistor 7.5 kΩ 2W,Resistor de potência
-,Resistor 8.2 kΩ 2W,Resistor de potência
-,Resistor 10 kΩ 2W,Resistor de potência
-,Resistor 15 kΩ 2W,Resistor de potência
-,Resistor 20 kΩ 2W,Resistor de potência
-,Resistor 27 kΩ 2W,Resistor de potência
-,Resistor 33 kΩ 2W,Resistor de potência
-,Resistor 39 kΩ 2W,Resistor de potência
-,Resistor 47 kΩ 2W,Resistor de potência
-,Resistor 56 kΩ 2W,Resistor de potência
-,Resistor 75 kΩ 2W,Resistor de potência
-,Resistor 82 kΩ 2W,Resistor de potência
-,Resistor 100 kΩ 2W,Resistor de potência
-,Resistor 150 kΩ 2W,Resistor de potência
-,Resistor 200 kΩ 2W,Resistor de potência
-,Resistor 270 kΩ 2W,Resistor de potência
-,Resistor 330 kΩ 2W,Resistor de potência
-,Resistor 390 kΩ 2W,Resistor de potência
-,Resistor 470 kΩ 2W,Resistor de potência
-,Resistor 560 kΩ 2W,Resistor de potência
-,Resistor 750 kΩ 2W,Resistor de potência
-,Resistor 820 kΩ 2W,Resistor de potência
-,Resistor 0.1 Ω 3W,Resistor de potência
-,Resistor 0.33 Ω 3W,Resistor de potência
-,Resistor 0.5 Ω 3W,Resistor de potência
-,Resistor 1 Ω 3W,Resistor de potência
-,Resistor 1.5 Ω 3W,Resistor de potência
-,Resistor 2 Ω 3W,Resistor de potência
-,Resistor 2.7 Ω 3W,Resistor de potência
-,Resistor 3.3 Ω 3W,Resistor de potência
-,Resistor 3.9 Ω 3W,Resistor de potência
-,Resistor 4.7 Ω 3W,Resistor de potência
-,Resistor 5.6 Ω 3W,Resistor de potência
-,Resistor 7.5 Ω 3W,Resistor de potência
-,Resistor 10 Ω 3W,Resistor de potência
-,Resistor 15 Ω 3W,Resistor de potência
-,Resistor 20 Ω 3W,Resistor de potência
-,Resistor 27 Ω 3W,Resistor de potência
-,Resistor 33 Ω 3W,Resistor de potência
-,Resistor 39 Ω 3W,Resistor de potência
-,Resistor 47 Ω 3W,Resistor de potência
-,Resistor 56 Ω 3W,Resistor de potência
-,Resistor 75 Ω 3W,Resistor de potência
-,Resistor 100 Ω 3W,Resistor de potência
-,Resistor 150 Ω 3W,Resistor de potência
-,Resistor 200 Ω 3W,Resistor de potência
-,Resistor 270 Ω 3W,Resistor de potência
-,Resistor 330 Ω 3W,Resistor de potência
-,Resistor 390 Ω 3W,Resistor de potência
-,Resistor 470 Ω 3W,Resistor de potência
-,Resistor 560 Ω 3W,Resistor de potência
-,Resistor 750 Ω 3W,Resistor de potência
-RFID,Chaveiro tag RFID,Chaveiro RFID aproximação
-,Cartão tag RFID,Cartão RFID aproximação
-Sensor,sensor ultrassom HC-SR04,
-,LM35,
-,DS18B20,
-,BMP280,"Sensor de pressão atm, temp, hum..."
-,TCS230 TCS3200,Sensor de reconhecimento de cor
-,MAX9814,Sensor de som
-,HC-SR501,Sensor de movimento
-,KY-003 A3144,Sensor de efeito Hall
-,TCRT5000L,Sensor óptico de reflexão infrared
-,GY-521 MPU6050,Giroscópio / acelerômetro
-,MQ135,Sensor de Gás
-,LM393,"sensor de solo, hum,..."
-,BMI160,Acelerômetro / Giroscópio
-,Sensor infravermelho,Sensor infrared usado em robô de linha
-,YF-S201,Sensor de fluxo de água
-,Joystick Analógico,Joystick sensor potenciômetro
-Solda,Wire desoldering 3mm,
-,Fluxo de solda RMA223,Fluxo de solda para chips 
-,Estanho para solda 0.8mm 50g,Estanho da marca LEFAVOR
-,Estanho para solda 1mm 50g,
-,Kit ferro de solda 60W,"Contém estanho, pontas, bucha e base "
-,Kit ferro de solda 80W,"Contém estanho, pontas, bucha e base "
-,Estanho para solda 30g SUPER SOLDER WIRE,
-,Estanho para Solda 100g SUPER SOLDER WIRE,
-,Estanho para solda 20g SUPER SOLDER WIRE,
-,Estanho para solda 50g SUPER SOLDER WIRE,
-Termistor,Termistor NTC 1k,
-,Termistor NTC 2k,
-,Termistor NTC 3k,
-,Termistor NTC 4.7k,
-,Termistor NTC 5k,
-,Termistor NTC 10k,
-,Termistor NTC 20k,
-,Termistor NTC 47k,
-,Termistor NTC 50k,
-,Termistor NTC 100k,
-Tiristor,BT134,Tiristor (SCR) para controle de cargas AC
-,C106,Tiristor (SCR) para controle de cargas AC
-,2P4M,Tiristor (SCR) para controle de cargas AC
-,BTA16,TRIAC
-,BT136,TRIAC
-,C106MG,SCR (Tiristor de controle de silício) 
-,C106DG,SCR (Tiristor de controle de silício) 
-,MAC97A6,TRIAC (Triode for Alternating Current) 
-,2N6509,SCR (Tiristor de controle de silício) 
-,2N6504,SCR (Silicon Controlled Rectifier) 
-Transistor,78L05,Regulador de tensão
-,78L06,Regulador de tensão
-,78L08,Regulador de tensão
-,78L09,Regulador de tensão
-,78L12,Regulador de tensão
-,78L15,Regulador de tensão
-,LM317 TO-92,Regulador de tensão
-,79L05,Regulador de tensão
-,79L12,Regulador de tensão
-,79L15,Regulador de tensão
-,L7805,Regulador de tensão
-,L7809,Regulador de tensão
-,L7812,Regulador de tensão
-,L7815,Regulador de tensão
-,L7905,Regulador de tensão
-,L7909,Regulador de tensão
-,L7912,Regulador de tensão
-,LM317 TO-220,Regulador de tensão
-,IRLZ44N,Transistor de efeito de campo (MOSFET canal N) 
-,B772,Transistor PNP de potência (uso geral)
-,D669,Transistor NPN de potência (uso geral)
-,BD136,Transistor PNP de potência (uso geral)
-,D882,Transistor NPN de potência (uso geral)
-,B648,Transistor PNP de uso geral (baixa potência)
-,BD235,Transistor NPN de potência (uso geral)
-,BD139,Transistor NPN de potência (uso geral)
-,D237,Transistor NPN de potência (uso geral)
-,BD438,Transistor PNP de potência (uso geral)
-,BD140,Transistor PNP de potência (uso geral)
-,D238,Transistor NPN de potência (uso geral)
-,13003,Transistor NPN de alta tensão para fontes chaveadas
-,Dissipador de calor para transistor TO-220,Dissipador de calor 15*10*22mm
-,TIP120,Transistor NPN Darlington 
-,BC550,Transistor BJT NPN 
-,BC517,Transistor Darlington NPN 
-,BC547,Transistor BJT NPN 
-,BC337,Transistor BJT NPN 
+Categoria,Produto,Descrição,Imagem
+Antenas,Antena Lora 915MHz,,
+Capacitor,Capacitor cerâmico 2pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 3pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 5pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 30pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 33pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 47pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 100pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 150pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 220pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 1nF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 1.5nF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 2.2nF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 10nF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 15nF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 22nF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 10pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 15pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 22pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 68pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 75pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 82pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 330pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 470pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 680pF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 3.3nF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 4.7nF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 6.8nF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 47nF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 68nF 50V,Capacitor cerâmico,
+,Capacitor cerâmico 100nF 50V,Capacitor cerâmico,
+,Capacitor eletrolítico 0.1uF 50V 4x7,Capacitor eletrolítico ,
+,Capacitor eletrolítico 0.22uF 50V 5x11,Capacitor eletrolítico ,
+,Capacitor eletrolítico 0.47uF 50V 5x11,Capacitor eletrolítico ,
+,Capacitor eletrolítico 1uF 50V 5x11,Capacitor eletrolítico ,
+,Capacitor eletrolítico 2.2uF 50V 4x7,Capacitor eletrolítico ,
+,Capacitor eletrolítico 3.3uF 50V 4x7,Capacitor eletrolítico ,
+,Capacitor eletrolítico 4.7uF 50V 4x7,Capacitor eletrolítico ,
+,Capacitor eletrolítico 10uF 25V 4x7,Capacitor eletrolítico ,
+,Capacitor eletrolítico 10uF 50V 5x11,Capacitor eletrolítico ,
+,Capacitor eletrolítico 22uF 16V 4x7,Capacitor eletrolítico ,
+,Capacitor eletrolítico 22uF 25V 4x7,Capacitor eletrolítico ,
+,Capacitor eletrolítico 33uF 16V 4x7,Capacitor eletrolítico ,
+,Capacitor eletrolítico 47uF 10V 4x7,Capacitor eletrolítico ,
+,Capacitor eletrolítico 47uF 25V 5x11,Capacitor eletrolítico ,
+,Capacitor eletrolítico 47uF 50V 6x11,Capacitor eletrolítico ,
+,Capacitor eletrolítico 100uF 16V 5x11,Capacitor eletrolítico ,
+,Capacitor eletrolítico 100uF 25V 5x11,Capacitor eletrolítico ,
+,Capacitor eletrolítico 220uF 10V 5x11,Capacitor eletrolítico ,
+,Capacitor eletrolítico 220uF 25V 6x11,Capacitor eletrolítico ,
+,Capacitor eletrolítico 330uF 25V 8x12,Capacitor eletrolítico ,
+,Capacitor eletrolítico 470uF 10V 6x11,Capacitor eletrolítico ,
+,Capacitor eletrolítico 470uF 16V 8x12,Capacitor eletrolítico ,
+,Capacitor eletrolítico 680uF 16V 8x12,Capacitor eletrolítico ,
+,Capacitor eletrolítico 1000uF 16V 10x16,Capacitor eletrolítico ,
+Célula de carga,Célula de carga 1kg,Célula de carga para balança,
+,Célula de carga 5kg,Célula de carga para balança,
+,Célula de carga 10kg,Célula de carga para balança,
+Socket para CI,Socket 6 Pin,,
+,Socket 8 Pin,,
+,Socket 14 Pin,,
+,Socket 16 Pin,,
+,Socket 18 Pin,,
+,Socket 20 Pin,,
+,Socket 24 Pin,,
+,Socket 28 Pin,,
+Componente,Reed switch GPS-14B,,
+,Interruptor de inclinação de vidro unidirecional 5mm,,
+,Reed switch NO,,
+,Reed switch NO / NC,,
+conectores,conector com terminal de crimpagem E6012,,
+,conector com terminal de crimpagem E4012,,
+,conector com terminal de crimpagem E2512,,
+,conector com terminal de crimpagem E1510,,
+,conector com terminal de crimpagem E1008,,
+,conector com terminal de crimpagem E7508,,
+,conector com terminal de crimpagem E0506,,
+,conector com terminal de crimpagem E0508,,
+,conector de engate rapido laranja 250V/32A 412,Terminais de engate rápido tipo universal laranja ,
+,conector de engate rapido laranja 250V/32A 413,Terminais de engate rápido tipo universal laranja ,
+,conector de engate rapido laranja 250V/32A 414,Terminais de engate rápido tipo universal laranja ,
+,conector de engate rapido laranja 250V/32A 415,Terminais de engate rápido tipo universal laranja ,
+Oscilador,Cristal oscilador 4MHz,,
+,Cristal oscilador 8MHz,,
+,Cristal oscilador 12MHz,,
+,Cristal oscilador 16MHz,,
+,Cristal oscilador 20MHz,,
+,Cristal oscilador 25MHz,,
+,Cristal oscilador 32.768MHz,,
+Diodo,Diodo zener 1N4727A 3V 1W,Diodo zener,
+,Diodo zener 1N4728A 3.3V 1W,Diodo zener,
+,Diodo zener 1N4729A 3.6V 1W,Diodo zener,
+,Diodo zener 1N4730A 3.9V 1W,Diodo zener,
+,Diodo zener 1N4731A 5.3V 1W,Diodo zener,
+,Diodo zener 1N4732A 4.7V 1W,Diodo zener,
+,Diodo zener 1N4733A 5.1V 1W,Diodo zener,
+,Diodo zener 1N4734A 5.6V 1W,Diodo zener,
+,Diodo zener 1N4735A 6.2V 1W,Diodo zener,
+,Diodo zener 1N4736A 6.8V 1W,Diodo zener,
+,Diodo zener 1N4737A 7.5V 1W,Diodo zener,
+,Diodo zener 1N4738A 8.2V 1W,Diodo zener,
+,Diodo zener 1N4739A 9.1V 1W,Diodo zener,
+,Diodo zener 1N4740A 10V 1W,Diodo zener,
+,Diodo zener 1N4741A 11V 1W,Diodo zener,
+,Diodo zener 1N4742A 12V 1W,Diodo zener,
+,Diodo zener 1N4743A 13V 1W,Diodo zener,
+,Diodo zener 1N4744A 15V 1W,Diodo zener,
+,Diodo zener 1N4745A 16V 1W,Diodo zener,
+,Diodo zener 1N4746A 18V 1W,Diodo zener,
+,Diodo zener 1N4747A 20V 1W,Diodo zener,
+,Diodo zener 1N4748A 22V 1W,Diodo zener,
+,Diodo zener 1N4749A 24V 1W,Diodo zener,
+,Diodo zener 1N4750A 27V 1W,Diodo zener,
+,Diodo zener 1N4751A 30V 1W,Diodo zener,
+,Diodo zener 1N4752A 33V 1W,Diodo zener,
+,Diodo zener 1N4753A 36V 1W,Diodo zener,
+,Diodo zener 1N4754A 39V 1W,Diodo zener,
+,Diodo zener 1N4755A 43V 1W,Diodo zener,
+,Diodo zener 1N4756A 47V 1W,Diodo zener,
+,1N4007,Diodo retificador de uso geral,
+,1N4148,Diodo de sinal rápido (switching),
+,1N5819,Diodo Schottky,
+,1N5399,Diodo retificador de uso geral,
+,1N5408,Diodo retificador de alta corrente,
+,1N5822,Diodo Schottky,
+,FR107,Diodo retificador ultrarrápido (Fast Recovery),
+,FR207,Diodo retificador ultrarrápido (Fast Recovery),
+,DB3,Diac trigger DO-35,
+,1SV149,Diodo varicap ,
+Display,Display Oled 1.3”,,
+,TFT display 1.3”,,
+,Display LCD 1602,,
+,TM1638,,
+,Display Oled 0.96” I2C,,
+,Display LCD 1602 I2C,,
+,TFT display 1.8”,,
+,TFT Display 2.8”,Display com touch,
+Ferramentas,Alicate pequeno,,
+Indutor ,Indutor 1uH,,
+,Indutor 2.2uH,,
+,Indutor 3.3uH,,
+,Indutor 4.7uH,,
+,Indutor 6.8uH,,
+,Indutor 10uH,,
+,Indutor 15uH,,
+,Indutor 22uH,,
+,Indutor 33uH,,
+,Indutor 47uH,,
+,Indutor 100uH,,
+,Indutor 150uH,,
+,Indutor 220uH,,
+,Indutor 330uH,,
+,Indutor 470uH,,
+,Indutor 680uH,,
+,Indutor 1mH,,
+,Indutor 2.2mH,,
+,Indutor 3.3mH,,
+,Indutor 4.7mH,,
+Jumper,Jumper MM 20cm,,
+,Jumper MM 10cm,,
+,Jumper MF 10cm,,
+,Jumper FF 10cm,,
+,Jumper FF 20cm,,
+,Jumper MF 20cm,,
+Kit Starter Arduino,Starter KIT Arduino,,
+,Kit basico componentes,,
+LDR,LDR 5516,,
+,LDR 5528,,
+,LDR 5537,,
+,LDR 5539,,
+,LDR 5549,,
+LED,Led RGB,,
+,Led amarelo 3mm,,
+,Led laranja 3mm,,
+,Led vermelho 3mm,,
+,Led azul 3mm,,
+,Led branco 3mm,,
+,Led verde 3mm,,
+Microcontrolador,Arduino Uno R3,,
+,ESP32-CH9102X,,
+,ESP32-CH340C TipoC,,
+,ESP32 30PIN,,
+,placa de encaixe ESP32,,
+,placa de encaixe ARDnano,,
+,Raspberry PI pico,,
+,Raspberry PI pico W paralela,,
+,ESP32-WROOM-32U-38P,ESP32 com espaço p/ antena,
+,Arduino Nano 3.0 tipo C,,
+Módulo ,Módulo GPS NEO-6M,Módulo GPS com Antena,
+,Módulo RFID PN532,,
+,Módulo buck boost XL6009,,
+,HX711,,
+,ULN2003,Módulo para motor de passo,
+,DS3231 AT24C32,Módulo de precisão de clock,
+,HW281A-5V,Módulo relé de 8 canais,
+,HW307A-5V,Módulo relé de 1 canal,
+,HW383B-12V,Módulo relé de 2 canais,
+,HW316A-5V,Módulo relé de 4 canais,
+,NRF24L01+PA+LNA,Módulo wireless,
+,L9110S 2 canais,Driver ponte H para motor de passo,
+,Placa de carregamento de bateria de litio TP4056,,
+,ADS1115,ADC (Conversor Analógico para Digital)  de 16bits,
+Motor,Servo motor 360°,,
+,28BYJ-48,Motor de passo,
+,Motor DC 3-6V com caixa de engrenagens e eixo duplo ,,
+,Motor DC 3-6V com caixa de engrenagens e eixo duplo + Roda,,
+,Mini servo motor SG90,,
+Optoacoplador,MOC3041,Optoacoplador com detecção de passagem por zero (zero-cross) ,
+PCB,PCB Universal 5x7 cm,,
+,PCB Universal 2x8 cm,,
+,PCB Universal 3x7 cm,,
+,PCB Universal 4x6 cm,,
+,PCB Universal 7x9 cm,,
+Peltier,Peltier TEC1-12706,,
+Pin Header,PIN Header,,
+Placa de fenolite,Placa de Fenolite 10x15cm,,
+,Placa de Fenolite 7x10cm,,
+,Placa de Fenolite 5x7cm,,
+Potenciômetro ,Potenciômetro 1k,,
+,Potenciômetro 2k,,
+,Potenciômetro 5k,,
+,Potenciômetro 10k,,
+,Potenciômetro 20k,,
+,Potenciômetro 50k,,
+,Potenciômetro 100k,,
+,Potenciômetro 250k,,
+,Potenciômetro 500k,,
+,Potenciômetro 1M,,
+Protoboard,Protoboard 830 PIN,,
+,Protoboard 415 PIN,,
+Relay,Relay 5V,,
+,Relay 3V,,
+Resistor,Resistor 0 Ω 1/4W,,
+,Resistor 0.5 Ω 1/4W,,
+,Resistor 1 Ω 1/4W,,
+,Resistor 2.2 Ω 1/4W,,
+,Resistor 3.3 Ω 1/4W,,
+,Resistor 4.7 Ω 1/4W,,
+,Resistor 5.6 Ω 1/4W,,
+,Resistor 6.8 Ω 1/4W,,
+,Resistor 8.2 Ω 1/4W,,
+,Resistor 10 Ω 1/4W,,
+,Resistor 22 Ω 1/4W,,
+,Resistor 33 Ω 1/4W,,
+,Resistor 47 Ω 1/4W,,
+,Resistor 56 Ω 1/4W,,
+,Resistor 68 Ω 1/4W,,
+,Resistor 82 Ω 1/4W,,
+,Resistor 100 Ω 1/4W,,
+,Resistor 220 Ω 1/4W,,
+,Resistor 330 Ω 1/4W,,
+,Resistor 470 Ω 1/4W,,
+,Resistor 560 Ω 1/4W,,
+,Resistor 680 Ω 1/4W,,
+,Resistor 820 Ω 1/4W,,
+,Resistor 1 kΩ 1/4W,,
+,Resistor 2.2 kΩ 1/4W,,
+,Resistor 3.3 kΩ 1/4W,,
+,Resistor 4.7 kΩ 1/4W,,
+,Resistor 5.6 kΩ 1/4W,,
+,Resistor 6.8 kΩ 1/4W,,
+,Resistor 8.2 kΩ 1/4W,,
+,Resistor 10 kΩ 1/4W,,
+,Resistor 22 kΩ 1/4W,,
+,Resistor 33 kΩ 1/4W,,
+,Resistor 47 kΩ 1/4W,,
+,Resistor 56 kΩ 1/4W,,
+,Resistor 68 kΩ 1/4W,,
+,Resistor 82 kΩ 1/4W,,
+,Resistor 100 kΩ 1/4W,,
+,Resistor 220 kΩ 1/4W,,
+,Resistor 330 kΩ 1/4W,,
+,Resistor 470 kΩ 1/4W,,
+,Resistor 560 kΩ 1/4W,,
+,Resistor 680 kΩ 1/4W,,
+,Resistor 820 kΩ 1/4W,,
+,Resistor 1 MΩ 1/4W,,
+,Resistor 2.2 MΩ 1/4W,,
+,Resistor 3.3 MΩ 1/4W,,
+,Resistor 4.5 MΩ 1/4W,,
+,Resistor 4.7 MΩ 1/4W,,
+,Resistor 10 MΩ 1/4W,,
+,Resistor 0.1 Ω 2W,Resistor de potência,
+,Resistor 0.33 Ω 2W,Resistor de potência,
+,Resistor 0.5 Ω 2W,Resistor de potência,
+,Resistor 1 Ω 2W,Resistor de potência,
+,Resistor 1.5 Ω 2W,Resistor de potência,
+,Resistor 2 Ω 2W,Resistor de potência,
+,Resistor 2.7 Ω 2W,Resistor de potência,
+,Resistor 3.3 Ω 2W,Resistor de potência,
+,Resistor 3.9 Ω 2W,Resistor de potência,
+,Resistor 4.7 Ω 2W,Resistor de potência,
+,Resistor 5.6 Ω 2W,Resistor de potência,
+,Resistor 7.5 Ω 2W,Resistor de potência,
+,Resistor 10 Ω 2W,Resistor de potência,
+,Resistor 15 Ω 2W,Resistor de potência,
+,Resistor 20 Ω 2W,Resistor de potência,
+,Resistor 27 Ω 2W,Resistor de potência,
+,Resistor 33 Ω 2W,Resistor de potência,
+,Resistor 39 Ω 2W,Resistor de potência,
+,Resistor 47 Ω 2W,Resistor de potência,
+,Resistor 56 Ω 2W,Resistor de potência,
+,Resistor 75 Ω 2W,Resistor de potência,
+,Resistor 100 Ω 2W,Resistor de potência,
+,Resistor 150 Ω 2W,Resistor de potência,
+,Resistor 200 Ω 2W,Resistor de potência,
+,Resistor 270 Ω 2W,Resistor de potência,
+,Resistor 330 Ω 2W,Resistor de potência,
+,Resistor 390 Ω 2W,Resistor de potência,
+,Resistor 470 Ω 2W,Resistor de potência,
+,Resistor 560 Ω 2W,Resistor de potência,
+,Resistor 750 Ω 2W,Resistor de potência,
+,Resistor 1 kΩ 2W,Resistor de potência,
+,Resistor 1.5 kΩ 2W,Resistor de potência,
+,Resistor 2 kΩ 2W,Resistor de potência,
+,Resistor 2.7 kΩ 2W,Resistor de potência,
+,Resistor 3.3 kΩ 2W,Resistor de potência,
+,Resistor 3.9 kΩ 2W,Resistor de potência,
+,Resistor 4.7 kΩ 2W,Resistor de potência,
+,Resistor 5.6 kΩ 2W,Resistor de potência,
+,Resistor 7.5 kΩ 2W,Resistor de potência,
+,Resistor 8.2 kΩ 2W,Resistor de potência,
+,Resistor 10 kΩ 2W,Resistor de potência,
+,Resistor 15 kΩ 2W,Resistor de potência,
+,Resistor 20 kΩ 2W,Resistor de potência,
+,Resistor 27 kΩ 2W,Resistor de potência,
+,Resistor 33 kΩ 2W,Resistor de potência,
+,Resistor 39 kΩ 2W,Resistor de potência,
+,Resistor 47 kΩ 2W,Resistor de potência,
+,Resistor 56 kΩ 2W,Resistor de potência,
+,Resistor 75 kΩ 2W,Resistor de potência,
+,Resistor 82 kΩ 2W,Resistor de potência,
+,Resistor 100 kΩ 2W,Resistor de potência,
+,Resistor 150 kΩ 2W,Resistor de potência,
+,Resistor 200 kΩ 2W,Resistor de potência,
+,Resistor 270 kΩ 2W,Resistor de potência,
+,Resistor 330 kΩ 2W,Resistor de potência,
+,Resistor 390 kΩ 2W,Resistor de potência,
+,Resistor 470 kΩ 2W,Resistor de potência,
+,Resistor 560 kΩ 2W,Resistor de potência,
+,Resistor 750 kΩ 2W,Resistor de potência,
+,Resistor 820 kΩ 2W,Resistor de potência,
+,Resistor 0.1 Ω 3W,Resistor de potência,
+,Resistor 0.33 Ω 3W,Resistor de potência,
+,Resistor 0.5 Ω 3W,Resistor de potência,
+,Resistor 1 Ω 3W,Resistor de potência,
+,Resistor 1.5 Ω 3W,Resistor de potência,
+,Resistor 2 Ω 3W,Resistor de potência,
+,Resistor 2.7 Ω 3W,Resistor de potência,
+,Resistor 3.3 Ω 3W,Resistor de potência,
+,Resistor 3.9 Ω 3W,Resistor de potência,
+,Resistor 4.7 Ω 3W,Resistor de potência,
+,Resistor 5.6 Ω 3W,Resistor de potência,
+,Resistor 7.5 Ω 3W,Resistor de potência,
+,Resistor 10 Ω 3W,Resistor de potência,
+,Resistor 15 Ω 3W,Resistor de potência,
+,Resistor 20 Ω 3W,Resistor de potência,
+,Resistor 27 Ω 3W,Resistor de potência,
+,Resistor 33 Ω 3W,Resistor de potência,
+,Resistor 39 Ω 3W,Resistor de potência,
+,Resistor 47 Ω 3W,Resistor de potência,
+,Resistor 56 Ω 3W,Resistor de potência,
+,Resistor 75 Ω 3W,Resistor de potência,
+,Resistor 100 Ω 3W,Resistor de potência,
+,Resistor 150 Ω 3W,Resistor de potência,
+,Resistor 200 Ω 3W,Resistor de potência,
+,Resistor 270 Ω 3W,Resistor de potência,
+,Resistor 330 Ω 3W,Resistor de potência,
+,Resistor 390 Ω 3W,Resistor de potência,
+,Resistor 470 Ω 3W,Resistor de potência,
+,Resistor 560 Ω 3W,Resistor de potência,
+,Resistor 750 Ω 3W,Resistor de potência,
+RFID,Chaveiro tag RFID,Chaveiro RFID aproximação,
+,Cartão tag RFID,Cartão RFID aproximação,
+Sensor,sensor ultrassom HC-SR04,,
+,LM35,,
+,DS18B20,,
+,TCS230 TCS3200,Sensor de reconhecimento de cor,
+,MAX9814,Sensor de som,
+,HC-SR501,Sensor de movimento,
+,KY-003 A3144,Sensor de efeito Hall,
+,TCRT5000L,Sensor óptico de reflexão infrared,
+,GY-521 MPU6050,Giroscópio / acelerômetro,
+,MQ135,Sensor de Gás,
+,BMI160,Acelerômetro / Giroscópio,
+,Sensor infravermelho,Sensor infrared usado em robô de linha,
+,YF-S201,Sensor de fluxo de água,
+,Joystick Analógico,Joystick sensor potenciômetro,
+Solda,Wire desoldering 3mm,,
+,Fluxo de solda RMA223,Fluxo de solda para chips ,
+,Estanho para solda 0.8mm 50g,Estanho da marca LEFAVOR,
+,Estanho para solda 1mm 50g,,
+,Estanho para solda 30g SUPER SOLDER WIRE,,
+,Estanho para Solda 100g SUPER SOLDER WIRE,,
+,Estanho para solda 20g SUPER SOLDER WIRE,,
+,Estanho para solda 50g SUPER SOLDER WIRE,,
+Termistor,Termistor NTC 1k,,
+,Termistor NTC 2k,,
+,Termistor NTC 3k,,
+,Termistor NTC 4.7k,,
+,Termistor NTC 5k,,
+,Termistor NTC 10k,,
+,Termistor NTC 20k,,
+,Termistor NTC 47k,,
+,Termistor NTC 50k,,
+,Termistor NTC 100k,,
+Tiristor,BT134,Tiristor (SCR) para controle de cargas AC,
+,C106,Tiristor (SCR) para controle de cargas AC,
+,2P4M,Tiristor (SCR) para controle de cargas AC,
+,BTA16,TRIAC,
+,BT136,TRIAC,
+,C106MG,SCR (Tiristor de controle de silício) ,
+,C106DG,SCR (Tiristor de controle de silício) ,
+,MAC97A6,TRIAC (Triode for Alternating Current) ,
+,2N6509,SCR (Tiristor de controle de silício) ,
+,2N6504,SCR (Silicon Controlled Rectifier) ,
+Transistor,78L05,Regulador de tensão,
+,78L06,Regulador de tensão,
+,78L08,Regulador de tensão,
+,78L09,Regulador de tensão,
+,78L12,Regulador de tensão,
+,78L15,Regulador de tensão,
+,LM317 TO-92,Regulador de tensão,
+,79L05,Regulador de tensão,
+,79L12,Regulador de tensão,
+,79L15,Regulador de tensão,
+,L7805,Regulador de tensão,
+,L7809,Regulador de tensão,
+,L7812,Regulador de tensão,
+,L7815,Regulador de tensão,
+,L7905,Regulador de tensão,
+,L7909,Regulador de tensão,
+,L7912,Regulador de tensão,
+,LM317 TO-220,Regulador de tensão,
+,IRLZ44N,Transistor de efeito de campo (MOSFET canal N) ,
+,B772,Transistor PNP de potência (uso geral),
+,D669,Transistor NPN de potência (uso geral),
+,BD136,Transistor PNP de potência (uso geral),
+,D882,Transistor NPN de potência (uso geral),
+,B648,Transistor PNP de uso geral (baixa potência),
+,BD235,Transistor NPN de potência (uso geral),
+,BD139,Transistor NPN de potência (uso geral),
+,D237,Transistor NPN de potência (uso geral),
+,BD438,Transistor PNP de potência (uso geral),
+,BD140,Transistor PNP de potência (uso geral),
+,D238,Transistor NPN de potência (uso geral),
+,13003,Transistor NPN de alta tensão para fontes chaveadas,
+,Dissipador de calor para transistor TO-220,Dissipador de calor 15*10*22mm,
+,TIP120,Transistor NPN Darlington ,
+,BC550,Transistor BJT NPN ,
+,BC517,Transistor Darlington NPN ,
+,BC547,Transistor BJT NPN ,
+,BC337,Transistor BJT NPN ,

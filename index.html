@@ -252,21 +252,25 @@ function renderPagination(totalPages) {
 
 function renderTable() {
     const tbody = document.querySelector('#catalogTable tbody');
-    tbody.innerHTML='';
-    const ippVal=document.getElementById('itemsPerPage').value;
-    const ipp = ippVal==='all'?Number.MAX_SAFE_INTEGER:parseInt(ippVal);
-    const filt = filtro();
-    const totalPages = Math.max(1, Math.ceil(filt.length/ipp));
-    if(currentPage>totalPages) currentPage=totalPages;
-    const start=(currentPage-1)*ipp;
-    const pageItems=filt.slice(start,start+ipp);
-    pageItems.forEach(it=>{
+    tbody.innerHTML = '';
 
+    const ippVal = document.getElementById('itemsPerPage').value;
+    const ipp    = ippVal === 'all' ? Number.MAX_SAFE_INTEGER
+                                    : parseInt(ippVal);
+
+    const filt       = filtro();
+    const totalPages = Math.max(1, Math.ceil(filt.length / ipp));
+    if (currentPage > totalPages) currentPage = totalPages;
+
+    const start     = (currentPage - 1) * ipp;
+    const pageItems = filt.slice(start, start + ipp);
+
+    pageItems.forEach(it => {
+
+        /* ✔  apenas ESTA linha mantém a variável */
         const imgSrc = it['Imagem'] || '';
 
-        const tr=document.createElement('tr');
-        const imgSrc = it['Imagem'] || '';
-
+        const tr = document.createElement('tr');
         tr.innerHTML = `
           <td>${it['Categoria']}</td>
           <td>${it['Produto']}</td>
@@ -276,11 +280,12 @@ function renderTable() {
                    alt="imagem"
                    onerror="this.src='';">
           </td>`;
-            
         tbody.appendChild(tr);
     });
+
     renderPagination(totalPages);
 }
+
 
 function showSection(s) {
     const cat=document.getElementById('catalogoSection');

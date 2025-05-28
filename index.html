@@ -261,11 +261,19 @@ function renderTable() {
     const start=(currentPage-1)*ipp;
     const pageItems=filt.slice(start,start+ipp);
     pageItems.forEach(it=>{
+
+        const imgSrc = it['Imagem'] || '';
+
         const tr=document.createElement('tr');
         tr.innerHTML=`<td>${it['Categoria']}</td>
                       <td>${it['Produto']}</td>
                       <td>${it['Descrição']||''}</td>
-                      <td><img src="" alt="imagem"></td>`;
+                      <td>
+                <img src="${imgSrc}"
+                     alt="imagem"
+                     onerror="this.src='';">
+            </td>`;
+            
         tbody.appendChild(tr);
     });
     renderPagination(totalPages);

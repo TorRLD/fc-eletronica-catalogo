@@ -268,7 +268,7 @@ function renderTable() {
     pageItems.forEach(it => {
 
         /* ✔  apenas ESTA linha mantém a variável */
-        const imgSrc = it['Imagem'] || '';
+        const imgSrc = (it['Imagem'] || '').trim();  // remove espaços invisíveis
 
         const tr = document.createElement('tr');
         tr.innerHTML = `
